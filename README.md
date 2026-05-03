@@ -20,3 +20,14 @@ This project automates the evaluation of AI-generated responses using structured
 
 1. Install Python
 2. Run:
+
+## Advanced Features
+
+- Automated scoring system
+- Human vs model comparison
+- Accuracy calculation
+- Structured output generation (TXT & CSV)
+
+## Example Output
+
+Model Accuracy: 92.30%
