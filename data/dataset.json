@@ -1,0 +1,210 @@
+[
+  {
+    "question": "What is Artificial Intelligence?",
+    "response_a": "AI is technology that does smart things.",
+    "response_b": "Artificial Intelligence is the simulation of human intelligence in machines that are programmed to think and learn.",
+    "scores": {
+      "accuracy": { "A": 2, "B": 5 },
+      "clarity": { "A": 3, "B": 5 },
+      "completeness": { "A": 2, "B": 5 }
+    },
+    "best_response": "B",
+    "justification": {
+      "accuracy": "Response B provides a precise definition.",
+      "clarity": "Response B is clearer and better structured.",
+      "completeness": "Response B includes key aspects like learning and thinking."
+    }
+  },
+  {
+    "question": "What is an API?",
+    "response_a": "An API is something used in programming.",
+    "response_b": "An API (Application Programming Interface) allows different software systems to communicate with each other.",
+    "scores": {
+      "accuracy": { "A": 2, "B": 5 },
+      "clarity": { "A": 2, "B": 5 },
+      "completeness": { "A": 1, "B": 5 }
+    },
+    "best_response": "B",
+    "justification": {
+      "accuracy": "Response B is technically correct.",
+      "clarity": "Response B is clearly explained.",
+      "completeness": "Response B provides full context."
+    }
+  },
+  {
+    "question": "What is a database?",
+    "response_a": "A database stores data.",
+    "response_b": "A database is an organized collection of structured information that can be accessed, managed, and updated.",
+    "scores": {
+      "accuracy": { "A": 3, "B": 5 },
+      "clarity": { "A": 3, "B": 5 },
+      "completeness": { "A": 2, "B": 5 }
+    },
+    "best_response": "B",
+    "justification": {
+      "accuracy": "Response B is more precise.",
+      "clarity": "Response B is clearer.",
+      "completeness": "Response B explains functionality."
+    }
+  },
+  {
+    "question": "What is cloud computing?",
+    "response_a": "Cloud computing is using the internet for computing.",
+    "response_b": "Cloud computing is the delivery of computing services such as storage, servers, and software over the internet.",
+    "scores": {
+      "accuracy": { "A": 3, "B": 5 },
+      "clarity": { "A": 3, "B": 5 },
+      "completeness": { "A": 2, "B": 5 }
+    },
+    "best_response": "B",
+    "justification": {
+      "accuracy": "Response B provides a correct definition.",
+      "clarity": "Response B is clearer.",
+      "completeness": "Response B includes examples."
+    }
+  },
+  {
+    "question": "What is machine learning?",
+    "response_a": "Machine learning is when computers learn.",
+    "response_b": "Machine learning is a subset of AI that enables systems to learn from data and improve performance without explicit programming.",
+    "scores": {
+      "accuracy": { "A": 2, "B": 5 },
+      "clarity": { "A": 2, "B": 5 },
+      "completeness": { "A": 1, "B": 5 }
+    },
+    "best_response": "B",
+    "justification": {
+      "accuracy": "Response B is technically correct.",
+      "clarity": "Response B is more precise.",
+      "completeness": "Response B explains how it works."
+    }
+  },
+  {
+    "question": "What is a server?",
+    "response_a": "A server is a computer.",
+    "response_b": "A server is a system that provides data or services to other computers over a network.",
+    "scores": {
+      "accuracy": { "A": 3, "B": 5 },
+      "clarity": { "A": 2, "B": 5 },
+      "completeness": { "A": 1, "B": 5 }
+    },
+    "best_response": "B",
+    "justification": {
+      "accuracy": "Response B is more accurate.",
+      "clarity": "Response B is clearer.",
+      "completeness": "Response B includes networking context."
+    }
+  },
+  {
+    "question": "What is HTTP?",
+    "response_a": "HTTP is a protocol for websites.",
+    "response_b": "HTTP (HyperText Transfer Protocol) is used to transfer web pages and data over the internet.",
+    "scores": {
+      "accuracy": { "A": 3, "B": 5 },
+      "clarity": { "A": 3, "B": 5 },
+      "completeness": { "A": 2, "B": 5 }
+    },
+    "best_response": "B",
+    "justification": {
+      "accuracy": "Response B is correct.",
+      "clarity": "Response B is clearer.",
+      "completeness": "Response B explains purpose."
+    }
+  },
+  {
+    "question": "What is Git?",
+    "response_a": "Git is used for code.",
+    "response_b": "Git is a version control system that tracks changes in code and allows collaboration.",
+    "scores": {
+      "accuracy": { "A": 2, "B": 5 },
+      "clarity": { "A": 2, "B": 5 },
+      "completeness": { "A": 1, "B": 5 }
+    },
+    "best_response": "B",
+    "justification": {
+      "accuracy": "Response B is correct.",
+      "clarity": "Response B is clearer.",
+      "completeness": "Response B includes collaboration aspect."
+    }
+  },
+  {
+    "question": "What is a programming language?",
+    "response_a": "It is a language for computers.",
+    "response_b": "A programming language is used to write instructions that a computer can execute.",
+    "scores": {
+      "accuracy": { "A": 3, "B": 5 },
+      "clarity": { "A": 2, "B": 5 },
+      "completeness": { "A": 2, "B": 5 }
+    },
+    "best_response": "B",
+    "justification": {
+      "accuracy": "Response B is correct.",
+      "clarity": "Response B is clearer.",
+      "completeness": "Response B explains purpose."
+    }
+  },
+  {
+    "question": "What is cybersecurity?",
+    "response_a": "Cybersecurity protects computers.",
+    "response_b": "Cybersecurity protects systems, networks, and data from digital attacks.",
+    "scores": {
+      "accuracy": { "A": 3, "B": 5 },
+      "clarity": { "A": 3, "B": 5 },
+      "completeness": { "A": 2, "B": 5 }
+    },
+    "best_response": "B",
+    "justification": {
+      "accuracy": "Response B is more complete.",
+      "clarity": "Response B is clearer.",
+      "completeness": "Response B includes multiple elements."
+    }
+  },
+  {
+    "question": "What is a database query?",
+    "response_a": "It is something you ask a database.",
+    "response_b": "A database query is a request for data using languages like SQL.",
+    "scores": {
+      "accuracy": { "A": 3, "B": 5 },
+      "clarity": { "A": 3, "B": 5 },
+      "completeness": { "A": 2, "B": 5 }
+    },
+    "best_response": "B",
+    "justification": {
+      "accuracy": "Response B is correct.",
+      "clarity": "Response B is clearer.",
+      "completeness": "Response B adds technical detail."
+    }
+  },
+  {
+    "question": "What is an operating system?",
+    "response_a": "It is software that runs a computer.",
+    "response_b": "An operating system manages hardware and software resources and provides services to programs.",
+    "scores": {
+      "accuracy": { "A": 4, "B": 5 },
+      "clarity": { "A": 3, "B": 5 },
+      "completeness": { "A": 3, "B": 5 }
+    },
+    "best_response": "B",
+    "justification": {
+      "accuracy": "Both are correct, but B is more precise.",
+      "clarity": "Response B is clearer.",
+      "completeness": "Response B explains functionality."
+    }
+  },
+  {
+    "question": "What is software development?",
+    "response_a": "It is making software.",
+    "response_b": "Software development is the process of designing, building, testing, and maintaining applications.",
+    "scores": {
+      "accuracy": { "A": 3, "B": 5 },
+      "clarity": { "A": 3, "B": 5 },
+      "completeness": { "A": 2, "B": 5 }
+    },
+    "best_response": "B",
+    "justification": {
+      "accuracy": "Response B is more complete.",
+      "clarity": "Response B is clearer.",
+      "completeness": "Response B includes full lifecycle."
+    }
+  }
+]
