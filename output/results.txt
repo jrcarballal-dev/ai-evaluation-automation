@@ -1,0 +1,4 @@
+Question: What is AI?
+Score A: 7 | Score B: 15
+Best Response: B
+----------------------------------------
