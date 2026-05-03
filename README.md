@@ -16,6 +16,8 @@ This project automates the evaluation of AI-generated responses using structured
 - Python
 - JSON data processing
 
+## Project Structure
+
 - ai-evaluation-automation/
 │
 ├── data/
