@@ -31,3 +31,7 @@ This project automates the evaluation of AI-generated responses using structured
 ## Example Output
 
 Model Accuracy: 92.30%
+
+## Real-World Application
+
+This tool simulates internal workflows used in AI training projects, where human-labeled data is compared against automated evaluation systems.
