@@ -16,6 +16,19 @@ This project automates the evaluation of AI-generated responses using structured
 - Python
 - JSON data processing
 
+- ai-evaluation-automation/
+│
+├── data/
+│   └── dataset.json
+│
+├── src/
+│   └── evaluator.py
+│
+├── output/
+│   └── results.txt
+│
+└── README.md
+
 ## How to run
 
 1. Install Python
